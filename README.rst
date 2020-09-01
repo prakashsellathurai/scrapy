@@ -57,6 +57,10 @@ Documentation
 =============
 
 Documentation is available online at https://doc.scrapy.org/ and in the ``docs``
+
+.. image:: https://api.codacy.com/project/badge/Grade/bdf46c866921410e8b51d488862a6ad5
+   :alt: Codacy Badge
+   :target: https://app.codacy.com/manual/prakashsellathurai/scrapy?utm_source=github.com&utm_medium=referral&utm_content=prakashsellathurai/scrapy&utm_campaign=Badge_Grade_Dashboard
 directory.
 
 Releases
